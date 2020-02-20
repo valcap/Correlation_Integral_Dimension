@@ -1,5 +1,4 @@
-c program to compute the correlation integral (2D set) by using the 
-algorithm proposed in the (pretty successfull) paper
+c program to compute the correlation integral (2-dimensional set) by using the algorithm proposed in the (pretty successfull) paper
 @article{PhysRevLett.50.346,
   title = {Characterization of Strange Attractors},
   author = {Grassberger, Peter and Procaccia, Itamar},
@@ -17,7 +16,7 @@ algorithm proposed in the (pretty successfull) paper
 
 --------------------------------------------------------------
 Compile:
-  gcc corrint2D.c -o a.exe -lm
+  gcc corrint2D.c -lm
   (the program was tested only with the gcc compiler)
 Usage:
   ./a.exe X.file Y.file
