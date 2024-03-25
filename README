@@ -1,4 +1,4 @@
-c program to compute the correlation integral (2-dimensional set) by using the algorithm proposed in the (pretty successfull) paper
+c program to compute the correlation integral (2-dimensional set) by using the algorithm proposed in the paper
 @article{PhysRevLett.50.346,
   title = {Characterization of Strange Attractors},
   author = {Grassberger, Peter and Procaccia, Itamar},
